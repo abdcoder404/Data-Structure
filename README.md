@@ -16,8 +16,11 @@ A linear data structure stores elements in a straight line or sequence, where ea
 Common Linear Data Structures:
 
 Array
+
 Linked List
+
 Stack
+
 Queue
 
 Non-Linear Data Structure:
@@ -29,7 +32,10 @@ Hierarchical means some elements are “above” or “below” others — like 
 Common Non-Linear Data Structures:
 
 Tree
+
 Graph
+
 Heap
+
 Trie
 
