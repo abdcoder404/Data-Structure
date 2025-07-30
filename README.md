@@ -1,4 +1,4 @@
-## DSA-Notes-And-Code
+## Data Structure And Algorithm 
 
 #### Data Structure:
 
